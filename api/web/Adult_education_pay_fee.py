@@ -198,3 +198,4 @@ class pay_fee2(HttpRunner):
 
 if __name__ == '__main__':
     pay_fee2().test_start()
+    print("假如你现在提交了这条代码，然后你要提交到git")
